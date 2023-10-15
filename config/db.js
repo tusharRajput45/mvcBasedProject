@@ -1,5 +1,5 @@
 const mongoose = require("mongoose")
-let url = `mongodb+srv://dbuser:windows@cluster0.1dt0s.mongodb.net/assignment`
+let url = `mongodb+srv://Tushar:window@cluster0.utfi84h.mongodb.net/`
 
 mongoose.connect(url, {
         useNewUrlParser: true,
